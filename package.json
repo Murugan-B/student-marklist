@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Murugan-B.github.io/marklist/",
+  "homepage": "https://Murugan-B.github.io/student-marklist/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
